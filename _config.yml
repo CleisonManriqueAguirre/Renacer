@@ -20,8 +20,8 @@ author: Cleison Armando Manrique Aguirre / Mamani Mamani, Romario William / Olan
 ###############################################
 
 navbar-links:
-  Acerca de: "Esta pagina es creada en el curso de Comunicacion Integral con el objetivo de promover tips para enfrentar las secuelas de la pandemia en lso estudiantes de pregrado de la UNSA"
-  #About Me: "aboutme"
+  #Acerca de: "Esta pagina es creada en el curso de Comunicacion Integral con el objetivo de promover tips para enfrentar las secuelas de la pandemia en lso estudiantes de pregrado de la UNSA"
+  About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
