@@ -20,11 +20,12 @@ author: Cleison Armando Manrique Aguirre / Mamani Mamani, Romario William / Olan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Acerca de: "Esta pagina es creada en el curso de Comunicacion Integral con el objetivo de promover tips para enfrentar las secuelas de la pandemia en lso estudiantes de pregrado de la UNSA"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -49,20 +50,23 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email_1: "cmanriquea@unsa.edu.pe"
+  email_2: "cmanriquea@unsa.edu.pe"
+  email_3: "cmanriquea@unsa.edu.pe"
+  email_4: "cmanriquea@unsa.edu.pe"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: Cuidado mental y físico postpandemia
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
