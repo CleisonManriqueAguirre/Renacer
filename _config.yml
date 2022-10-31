@@ -20,8 +20,9 @@ author: Cleison Armando Manrique Aguirre / Mamani Mamani, Romario William / Olan
 ###############################################
 
 navbar-links:
-  #Acerca de: "Esta pagina es creada en el curso de Comunicacion Integral con el objetivo de promover tips para enfrentar las secuelas de la pandemia en lso estudiantes de pregrado de la UNSA"
-  About Me: "aboutme"
+  Acerca de: "Acerca de" 
+  #Esta pagina es creada en el curso de Comunicacion Integral con el objetivo de promover tips para enfrentar las secuelas de la pandemia en lso estudiantes de pregrado de la UNSA"
+  #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
