@@ -52,11 +52,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "cmanriquea@unsa.edu.pe"
-  email: "cmanriquea@unsa.edu.pe"
-  email: "cmanriquea@unsa.edu.pe"
-  email: "cmanriquea@unsa.edu.pe"
+  email: "ppillpinto@unsa.edu.pe"
+  email: "dquispecac@unsa.edu.pe"
+  email: "romamanima@unsa.edu.pe"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/profile.php?id=100087050454833&notif_id=1667186098891836&notif_t=follow_profile&ref=notif
+  facebook: profile.php?id=100087050454833&notif_id=1667186098891836&notif_t=follow_profile&ref=notif
   #github: daattali
   #twitter: daattali
   #patreon: DeanAttali
